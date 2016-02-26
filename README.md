@@ -1,1 +1,1 @@
-This is my vim configurations
+This is my vim configuration
