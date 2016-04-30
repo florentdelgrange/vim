@@ -9,11 +9,10 @@ call vundle#begin()
 "
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
-
-"(Vit)ality is a plugin that makes (V)im play nicely with (i)Term 2 and
-"(t)mux.
-Plugin 'sjl/vitality'
-
+"Plugin for iTerm
+Plugin 'Vitality'
+"Plugin to show lambda in functionnal programming
+Plugin 'calebsmith/vim-lambdify'
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
